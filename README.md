@@ -4,4 +4,4 @@
 |:-------------------------------------------------------------------|:------------------------------------------------------------------------------------------------|-|
 |[Сегментация студентов онлайн курсов](https://github.com/KaterinaFrolkova/portfolio/tree/main/students_segmentation)|Хакатон, 1 место - проект идет в работу заказчику. Сегментация студентов онлайн курсов, формирование гипотез по выстраиванию помощи в достижении их целей. | pandas, numpy, matplotlib, seaborn, scipy
 |[Дашборд рынка колбасных изделий](https://github.com/KaterinaFrolkova/portfolio/tree/main/sausages)|Составление интерактивного дашборда по данным маректингового агентства. ВЭД и внутренний рынок| Power BI
-|[Тепловая карта средней температуры воздуха города Базель](https://github.com/KaterinaFrolkova/portfolio/tree/main/Basel_tmpr_heatmap)|Небольшой код для создания тепловой карты с собстенной цветовой схемой| pandas, seaborn, matplotlib
+|[Тепловая карта средней температуры воздуха города Базель](https://github.com/KaterinaFrolkova/portfolio/tree/main/Basel_tmpr_heatmap)|Небольшой код для создания тепловой карты с собственной цветовой схемой| pandas, seaborn, matplotlib
